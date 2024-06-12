@@ -10,7 +10,7 @@ In the project directory, you can run:
 
 ### `npm run prettier`
 
-### `npm start`
+### `npm run start`
 
 ### `npm run build`
 
